@@ -1,0 +1,25 @@
+/* make the font in the  div white and the background color red. The text is centered and bloded.*/
+
+div {
+    color: white; 
+    background-color: red; 
+    text-align: center; 
+    font-size: large; 
+    font-weight: bolder; 
+    height: 60; 
+    width: 100%;
+}
+
+/* make the font in the  div white and the background color green. */
+
+p {
+    color: white; 
+    background-color: green;
+}
+
+/* make the font in the  button black and the background color yellow. */
+
+button {
+    color:black; 
+    background-color: yellow;
+}
